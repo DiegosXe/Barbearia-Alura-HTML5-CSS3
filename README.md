@@ -14,9 +14,11 @@
 
 :small_blue_diamond: [Cursos Realizados e Conceitos Aprendidos](#cursos-realizados-e-conceitos-aprendidos)
 
-:small_blue_diamond: [Deploy das Páginas](#deploy-das-páginas)
+:small_blue_diamond: [Deploy](#deploy)
 
-:small_blue_diamond: [Instrutor](#instrutor)
+:small_blue_diamond: [Instrutor da Alura](#instrutor-da-alura)
+
+:small_blue_diamond: [Desenvolvedor](#desenvolvedor)
 
 <br>
 
@@ -225,15 +227,19 @@
 
 <br>
 
-## Deploy das Páginas
+## Deploy
 
 > ...
   
 <br>
 
-## Instrutor
+## Instrutor da Alura
   
-  > <p><strong>Pedro Marins</strong></p>
-  > <p>Github: https://github.com/pedromarins</p>
+> [Pedro Marins](https://github.com/pedromarins)
   
 <br>
+
+## Desenvolvedor
+
+| [<img src="https://avatars.githubusercontent.com/u/118308728?v=4" width=115><br><sub>Diego Borelli Dias</sub>](https://github.com/DiegosXe) |
+| :-----------: |
