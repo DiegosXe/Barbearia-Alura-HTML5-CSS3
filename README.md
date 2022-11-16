@@ -1,4 +1,4 @@
-<p align='center'><img src="banner-menor.jpg" alt="banner com imagem de uma barbearia"></p>
+<p align='center'><img src="banner-menor.jpg" alt="Imagem da Barbearia"></p>
 
 <h1 align="center">Barbearia Alura</h1>
 
@@ -16,9 +16,11 @@
 
 :small_blue_diamond: [Deploy](#deploy)
 
-:small_blue_diamond: [Instrutor da Alura](#instrutor-da-alura)
-
 :small_blue_diamond: [Desenvolvedor](#desenvolvedor)
+
+:small_blue_diamond: [Alura](#alura)
+
+:small_blue_diamond: [Instrutor da Alura](#instrutor-da-alura)
 
 <br>
 
@@ -229,13 +231,7 @@
 
 ## Deploy
 
-> ...
-  
-<br>
-
-## Instrutor da Alura
-  
-> [Pedro Marins](https://github.com/pedromarins)
+> https://diegosxe.github.io/Barbearia-Alura-HTML5-CSS3/
   
 <br>
 
@@ -243,3 +239,17 @@
 
 | [<img src="https://avatars.githubusercontent.com/u/118308728?v=4" width=115><br><sub>Diego Borelli Dias</sub>](https://github.com/DiegosXe) |
 | :-----------: |
+  
+<br>
+
+## Alura
+  
+[<img src="alura.png" alt="Logo da Alura" width=150>](https://www.alura.com.br/)
+
+<br>
+
+## Instrutor da Alura
+  
+> [Pedro Marins](https://github.com/pedromarins)
+  
+<br>
