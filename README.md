@@ -16,11 +16,13 @@
 
 :small_blue_diamond: [Deploy](#deploy)
 
+:small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+:small_blue_diamond: [Instituição de Ensino](#instituição-de-ensino)
+
+:small_blue_diamond: [Instrutor](#instrutor)
+
 :small_blue_diamond: [Desenvolvedor](#desenvolvedor)
-
-:small_blue_diamond: [Alura](#alura)
-
-:small_blue_diamond: [Instrutor da Alura](#instrutor-da-alura)
 
 <br>
 
@@ -234,22 +236,29 @@
 > https://diegosxe.github.io/Barbearia-Alura-HTML5-CSS3/
   
 <br>
-
-## Desenvolvedor
-
-| [<img src="https://avatars.githubusercontent.com/u/118308728?v=4" width=115><br><sub>Diego Borelli Dias</sub>](https://github.com/DiegosXe) |
-| :-----------: |
+  
+## Tecnologias Utilizadas
+  
+- `HTML5`
+- `CSS3`
   
 <br>
 
-## Alura
+## Instituição de Ensino
   
 [<img src="alura.png" alt="Logo da Alura" width=150>](https://www.alura.com.br/)
 
 <br>
 
-## Instrutor da Alura
+## Instrutor
   
 > [Pedro Marins](https://github.com/pedromarins)
+  
+<br>
+
+## Desenvolvedor
+
+| [<img src="https://avatars.githubusercontent.com/u/118308728?v=4" width=115><br><sub>Diego Borelli Dias</sub>](https://github.com/DiegosXe) |
+| :-----------: |
   
 <br>
