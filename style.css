@@ -219,6 +219,12 @@ form label, form legend {
 	margin: 0 0 10px;
 }
 
+form .opções {
+	display:block;
+	font-size: 20px;
+	margin: 20px 0 10px;
+}
+
 .input-padrao {
 	display: block;
 	margin: 0 0 20px;
