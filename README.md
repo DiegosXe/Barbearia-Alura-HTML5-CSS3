@@ -10,19 +10,19 @@
 
 ### Sumário 
 
-:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+🔸 [Descrição do Projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Cursos Realizados e Conceitos Aprendidos](#cursos-realizados-e-conceitos-aprendidos)
+🔸 [Cursos Realizados e Conceitos Aprendidos](#cursos-realizados-e-conceitos-aprendidos)
 
-:small_blue_diamond: [Deploy](#deploy)
+🔸 [Deploy](#deploy)
 
-:small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
+🔸 [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-:small_blue_diamond: [Instituição de Ensino](#instituição-de-ensino)
+🔸 [Instituição de Ensino](#instituição-de-ensino)
 
-:small_blue_diamond: [Instrutor](#instrutor)
+🔸 [Instrutor](#instrutor)
 
-:small_blue_diamond: [Desenvolvedor](#desenvolvedor)
+🔸 [Desenvolvedor](#desenvolvedor)
 
 <br>
 
