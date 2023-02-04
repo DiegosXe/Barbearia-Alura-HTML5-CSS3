@@ -1,12 +1,12 @@
-<p align='center'><img src="banner-menor.jpg" alt="Imagem da Barbearia"></p>
-
 <h1 align="center">Barbearia Alura</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=SublimeText&message=4143&color=orange&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge"/>
 </p>
-<br>
+
+<p align="center"><img align='center' src="https://uploaddeimagens.com.br/images/004/329/778/original/barbearia.jpg?1675537082#vitrinedev"><br>
+
 
 ### Sumário 
 
